@@ -33,11 +33,12 @@
 # 贡献
 ![](https://gitee.com/Johnsonleeeee/image/raw/master/contribution.jpg)
 
-# 个人博客
+# [个人博客](https://johnsonleeeee.github.io/Johnson.github.io/)
 
 - 关于wxml & wxss
 - 关于js
 - 关于工具
+
 
 # 特别致谢
 
